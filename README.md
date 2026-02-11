@@ -18,11 +18,11 @@ I'm particularly interested in:
 ---
 ## Key Projects
 
-**AI-Powered Digital Twin**: Built full-stack serverless architecture using AWS Lambda, Amazon Bedrock (Mistral), Terraform, and Next.js
-**GenoMind - Genomic Database Assistant**: Developed agentic AI chatbot with Qwen 2.5:7B (Ollama) for intelligent database queries
-**Enterprise RAG ChatBot**: Engineered end-to-end RAG system achieving **MRR 0.8688, nDCG 0.8776, 94.7% coverage** across 150 test cases
-**The Price is Right** - AI Pricing & Market Intelligence Engine An end-to-end AI system that predicts fair product prices and autonomously finds live market deals.
-**Automated Medical Image Classification** - Computer vision pipeline for fatty liver classification from CT scans using ML + DL hybrid approach.
+- **AI-Powered Digital Twin**: Built full-stack serverless architecture using AWS Lambda, Amazon Bedrock (Mistral), Terraform, and Next.js
+- **GenoMind - Genomic Database Assistant**: Developed agentic AI chatbot with Qwen 2.5:7B (Ollama) for intelligent database queries
+- **Enterprise RAG ChatBot**: Engineered end-to-end RAG system achieving **MRR 0.8688, nDCG 0.8776, 94.7% coverage** across 150 test cases
+- **The Price is Right** - AI Pricing & Market Intelligence Engine An end-to-end AI system that predicts fair product prices and autonomously finds live market deals.
+- **Automated Medical Image Classification** - Computer vision pipeline for fatty liver classification from CT scans using ML + DL hybrid approach.
 
 ## 🛠️ Technical Skills
 
