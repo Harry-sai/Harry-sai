@@ -71,7 +71,6 @@ I'm particularly interested in:
 | 💼 **LinkedIn** | [Add your LinkedIn profile link](https://www.linkedin.com/in/hariom-kurmi909819/) |
 | 💻 **GitHub** | [Harry-sai](https://github.com/Harry-sai) |
 | 📧 **Email** | [hariom_k@btt.iitroorkee.ac.in](mailto:hariom_k@btt.iitroorkee.ac.in) |
-| 📞 **Phone** | +91-95164896100 |
 
 </div>
 
