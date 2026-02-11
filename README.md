@@ -1,7 +1,6 @@
 # 👋 Hello! I'm Hariom Kurmi
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Harry-sai&color=0891b2&style=flat)
-[![GitHub followers](https://img.shields.io/github/followers/Harry-sai?style=social)](https://github.com/Harry-sai)
 
 ---
 
